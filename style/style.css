@@ -1,12 +1,12 @@
 body {
-  background-color: black;
-  color: white;
-  font-family: "Comic Sans MS", sans-serif;
+  background-color: white (235, 43, 43);
+  color: white (0, 255, 64);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 .camelo {
-  background-color: rgb(228, 59, 8);
-  color: white;
+  background-color: rgb(39, 168, 119);
+  color: red;
   padding: 40px;
   font-size: 30px;
   text-align: center;
