@@ -14,4 +14,16 @@ body {
 
 nav {
   text-align: center;
+  color: blue;
+}
+
+table {
+  width: 80%;
+  margin: 30px auto;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px;
 }
