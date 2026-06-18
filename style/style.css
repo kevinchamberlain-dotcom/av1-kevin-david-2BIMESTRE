@@ -1,7 +1,7 @@
 body {
   font-family: "family-name", sans-serif;
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
 }
 
 .header {
@@ -13,7 +13,7 @@ body {
 
 nav {
   background-color: orange;
-  padding:10px;
+  padding: 20px;
   text-align: center;
 }
 
@@ -34,7 +34,7 @@ main {
 
 #sobre {
   background-color: aqua;
-  border: 3px dotted #f30101;
+  border: 3px dotted #000000;
   text-align: center;
 }
 
@@ -58,7 +58,8 @@ footer {
   background-color: #000000;
   color: white;
   text-align: center;
-  padding: 10px;
+  margin-top: 30px;
+  padding: 20px;
 }
 
 .item-galeria img {
@@ -123,22 +124,22 @@ footer {
 
 form {
   width: 60%;
-  margin: 20px auto;
-  padding: 10px;
-  border: 1px solid #d34e4e;
-  border-radius: 0px;
+  margin: 70px auto;
+  padding: 8px;
+  border: 0px solid #d34e4e;
+  border-radius: 0;
 }
 
 label {
   display: block;
-  margin-top: 10px;
+  margin-top: 0px;
   margin-bottom: 10px;
 }
 
 input,
 textarea {
   width: 100%;
-  padding: 10px;
+  padding: 9px;
   margin-bottom: 0px;
   box-sizing: border-box;
 }
@@ -148,7 +149,7 @@ textarea {
 }
 
 button {
-  color:rgb(31, 137, 224);
+  color: rgb(31, 137, 224);
   background-color: #000000;
   display: inline-block;
   padding: 10px 20px;
